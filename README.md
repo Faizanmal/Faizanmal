@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Faizan Malik 👋
 
-<!--
-**Faizanmal/Faizanmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Python Developer | Data Analyst
 
-Here are some ideas to get you started:
+I build AI-powered applications, automation systems, data analytics solutions, and intelligent workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+* AI Insurance Automation System
+* RAG-based Knowledge Assistants
+* VS Code AI Coding Assistant
+* Full Stack AI Applications
+* Data Analytics & Dashboards
+
+## 🛠 Tech Stack
+
+### Languages
+
+* Python
+* SQL
+* JavaScript
+* TypeScript
+
+### AI & Data
+
+* Machine Learning
+* NLP
+* LLMs
+* RAG
+* LangChain
+* Streamlit
+* Tableau
+
+### Backend & Web
+
+* Django
+* FastAPI
+* DRF
+* React
+* Next.js
+
+### Tools
+
+* Git
+* Docker
+* PostgreSQL
+* VS Code
+
+## 📌 Featured Projects
+
+### AI Insurance Automation
+
+Automates insurance document processing using OCR and LLM pipelines.
+
+### Coding Assistant VS Code Extension
+
+AI-powered coding assistant with chat, code generation, and code-fixing capabilities.
+
+### RAG Knowledge Assistant
+
+Document-aware AI assistant using retrieval-augmented generation.
+
+### Trading Analytics Platform
+
+Performance analysis using ROI, Sharpe Ratio, Drawdown, and ranking metrics.
+
+## 📫 Connect With Me
+
+LinkedIn: [www.linkedin.com/in/faizanmalikdelhi](http://www.linkedin.com/in/faizanmalikdelhi)
+
+GitHub: github.com/Faizanmal
